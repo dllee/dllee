@@ -6,3 +6,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="@rahulbanerjee26&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@dllee&compact=True"/>
 </a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
