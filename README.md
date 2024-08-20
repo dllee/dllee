@@ -9,4 +9,4 @@
 ## Wakatime Week Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jinsu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-update 2024-07-18
+update 2024-08-20
