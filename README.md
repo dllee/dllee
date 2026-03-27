@@ -3,7 +3,7 @@
 > **Product Lead, Technical Product Owner @ [Toss](https://toss.im)**
 
 20년차 엔지니어. IoT/임베디드에서 시작해 핀테크, 클라우드, 보안을 거쳐 프로덕트 리더십까지.
-기술로 문제를 정의하고, 제품으로 해결합니다.
+문제를 정의하고, 기술로 제품을 만듭니다.
 
 ---
 
